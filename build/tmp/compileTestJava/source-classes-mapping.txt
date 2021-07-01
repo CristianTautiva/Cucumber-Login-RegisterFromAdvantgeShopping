@@ -1,0 +1,8 @@
+com/advantageshopping/automation/runners/RegisterNewUserRunner.java
+ com.advantageshopping.automation.runners.RegisterNewUserRunner
+com/advantageshopping/automation/runners/LoginNewUser.java
+ com.advantageshopping.automation.runners.LoginNewUser
+com/advantageshopping/automation/stepdefinitions/RegisterNewUserStepDefinitions.java
+ com.advantageshopping.automation.stepdefinitions.RegisterNewUserStepDefinitions
+com/advantageshopping/automation/stepdefinitions/LoginNewUserStepDefinitions.java
+ com.advantageshopping.automation.stepdefinitions.LoginNewUserStepDefinitions
